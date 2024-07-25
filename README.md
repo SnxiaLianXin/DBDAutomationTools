@@ -1,7 +1,7 @@
 # DBDAutomationTools
 一个DBD（黎明杀机）的自动化工具，主要用于自动QTE和骇入无人机操作。
 
-# 功能演示
+# 功能
 
 ### 骇入无人机
 ![img](https://github.com/user-attachments/assets/b0e614d3-ed61-4f3c-a62e-63b2b61b76ca)
